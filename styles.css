@@ -26,6 +26,11 @@ nav {
     text-decoration: none;
 }
 
+.link-header:hover {
+    color: #665AE1;
+    transition: 0.3s;
+}
+
 .button-header {
     background: #665AE1;
     border-radius: 20.5px;
@@ -88,3 +93,8 @@ p {
     line-height: 34px;
     color: #000000;
 }
+
+    .button-main:hover {
+        opacity: 0.8;
+        transition: 0.3s;
+    }
