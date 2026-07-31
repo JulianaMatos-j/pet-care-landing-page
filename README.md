@@ -18,7 +18,7 @@ Uma landing page moderna para cuidados com pets, desenvolvida com HTML e CSS.
 
 ## 📸 Preview do Projeto
 
-Adicione aqui uma imagem do projeto futuramente.
+![Preview do Projeto](./assets/preview.png)
 
 ## 💻 Como executar o projeto
 
